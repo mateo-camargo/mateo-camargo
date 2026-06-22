@@ -6,7 +6,7 @@ Hi, I'm Mateo Camargo 👋 — AI Automation Engineer
   🔧 Stack: n8n · Supabase / PostgreSQL · OpenAI & LLM agents (MCP) · React / TypeScript · Docker / self-hosting
   🏗️ I build: AI assistants & chatbots · workflow automation · live dashboards · internal tooling
   🏢 Founder @ Synthory — an AI-automation studio
-  🌐 mateocamargo.com · 💼 linkedin.com/in/mateo-camargo · 📅 [[Book a meeting]](https://calendar.notion.so/meet/mateocamargo/bookameeting)
+  🌐 https://synthory.notion.site/mateo-camargo · 💼 linkedin.com/in/mateo-camargo · 📅 [[Book a meeting]](https://calendar.notion.so/meet/mateocamargo/bookameeting)
 
   > Most of my work runs on my own self-hosted infrastructure (Forgejo + Docker).
   > The repos here are public demos & templates — the real systems live private.
@@ -17,7 +17,6 @@ Hi, I'm Mateo Camargo 👋 — AI Automation Engineer
   - 🌐 Personal site — this portfolio (Vite + React + TypeScript + full SEO)
 
   📫 mateocl008@gmail.com👋
-  https://solucigital.notion.site/mateo-camargo
 
 <!--
 **mateo-camargo/mateo-camargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
